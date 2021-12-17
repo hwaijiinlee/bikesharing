@@ -31,6 +31,9 @@ In order to further analyse the bike sharing data, we can consider the following
 1) adding the gender to the color marks in the Average Trip Duration graph to clearly show the length of time each gender rents the bikes out for and by their ages in one visualization; and
 2) adding the user type (i.e. customer or subscriber) in the August Peak Hours graph to the color mark to clearly show the differentiation.
 
+Published Tableau dashboards are available here:
+[link to dashboard](https://public.tableau.com/app/profile/hwai.jiin.lee/viz/NYC_CitiBike_Challenge_16396283824500/NYCCitiBikeStory?publish=yes)
+
 
 
 
